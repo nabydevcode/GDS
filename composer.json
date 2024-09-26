@@ -1,0 +1,20 @@
+{
+    "name": "nabyzakariatoure/exos",
+    "autoload": {
+        "psr-4": {
+            "App\\Core\\": "Core/",
+            "App\\Models\\": "Models/",
+            "App\\Views\\": "Views/",
+            "App\\Controllers\\": "Controllers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nabydevcode",
+            "email": "condenabytoure123@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
